@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive personal portfolio website designed to showcase my skills, experience, and projects as a Full Stack Developer. Built with a focus on clean UI, smooth animations, and user experience.
 
-🔗 **Live Demo:** [Insert Your Vercel/GitHub Pages Link Here]
+🔗 **Live Demo:** [https://sundusitp.github.io/port-folio/]
 
 ## 🚀 Features
 
